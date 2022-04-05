@@ -9,7 +9,7 @@ Dec 5 2020
 
 # Privacy Policy
 
-Alunt Apps built the Sleep Fan app as a Free app. This SERVICE is provided by Alunt Apps at no cost and is intended for use as is.
+SleepRelaxApps built the Sleep Fan app as a Free app. This SERVICE is provided by SleepRelaxApps at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
