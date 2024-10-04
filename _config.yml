@@ -2,7 +2,7 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                :  # 1098283201 (uncomment this. But this ID create issue for andorid app as iPhone website link goes to aluntapps.com which goes to gambling website.)
+ios_app_id                                :  792628362 
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                        # Enter Google Play Store URL.
