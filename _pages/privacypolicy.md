@@ -22,6 +22,7 @@ The app does use third party services that may collect information used to ident
 Link to privacy policy of third party service providers used by the app
 
 <a href="https://www.google.com/policies/privacy/">Google Play Services</a>
+
 <a href="https://www.applovin.com/privacy/">AppLovin</a>
 
 # Log Data
